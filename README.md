@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<p align="center">
+  <img alt="coding" width="300" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gqvy9bfyskydesbt7tmek1shmaok6k88s3lq5km2&ep=v1_gifs_search&rid=200w.gif&ct=g">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="moiz-xyz" /> </p>
 
@@ -31,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moiz-xyz&show_icons=true&locale=en" alt="moiz-xyz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-xyz&" alt="moiz-xyz" /></p>
+
