@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moiz-portfolio-website--liart.vercel.app/](https://moiz-portfolio-website--liart.vercel.app/)
 
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gqvy9bfyskydesbt7tmek1shmaok6k88s3lq5km2&ep=v1_gifs_search&rid=200w.gif&ct=g">
+
 - 💬 Ask me about **JavaScript, Typescript and Firebase**
 
 - 📫 How to reach me **a.moizniaxi@gmail.com**
