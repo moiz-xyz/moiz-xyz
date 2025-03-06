@@ -32,16 +32,17 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moiz-xyz&show_icons=true&theme=react" alt="moiz-xyz" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moiz-xyz&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-xyz&theme=react" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-lemon.vercel.app?user=moiz-xyz&theme=gruvbox-duo&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-xyz&show_icons=true&locale=en&layout=compact" alt="moiz-xyz" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=moiz-xyz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 
