@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=moiz-xyz&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-xyz&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
