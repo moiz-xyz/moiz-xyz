@@ -36,12 +36,13 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-lemon.vercel.app?user=moiz-xyz&theme=react&hide_border=true" alt="GitHub Streak" /></a> 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=moiz-xyz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=moiz-xyz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-lemon.vercel.app?user=moiz-xyz&theme=react&hide_border=true" alt="GitHub Streak" /></a> 
 </p>
+
 
 
 ---
