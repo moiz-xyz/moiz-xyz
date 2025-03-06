@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-lemon.vercel.app?user=moiz-xyz&theme=gruvbox-duo&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-lemon.vercel.app?user=moiz-xyz&theme=react&hide_border=true" alt="GitHub Streak" /></a> 
 </p>
 
 <p align="center">
