@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-
-<p align="center">
-  <img alt="coding" width="300" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gqvy9bfyskydesbt7tmek1shmaok6k88s3lq5km2&ep=v1_gifs_search&rid=200w.gif&ct=g">
-</p>
+<h1 align="center">Hi , I'm Abdul Moiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<center>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+%7C+NodeJS+%7C+Firebase+%7C+Supabase;Learning+React+Native+%7C+Flutter+%26+Dart&center=true&width=500&height=50" width="100%">
+</center>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=moiz-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="moiz-xyz" /> 
