@@ -34,9 +34,9 @@
   <br>
   <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nodejs,expressjs,mongodb" />
   <br>
-  <img src="https://skillicons.dev/icons?i=appwrite,npm,angular,vite,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=npm,vite,postman,figma" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase,materialui" />
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase,materialui" />
 </p>
 
 <p align='center'>
