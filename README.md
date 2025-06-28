@@ -85,20 +85,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moiz-xyz&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-xyz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=moiz-xyz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-xyz&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats-ten-lemon.vercel.app?user=moiz-xyz&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moiz-xyz&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moiz-xyz&theme=onestar" alt="Trophies" />
-</p>
-
----
 
 ⭐ **Thanks for visiting my profile!**  
 💬 *Let’s connect and grow together.*
